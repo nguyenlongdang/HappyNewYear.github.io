@@ -26,6 +26,43 @@ h1{
   font-size: 40px; 
   margin: 40px 0px 20px; 
 } 
+h4{
+	line-height: 50px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	text-align: center;
+}
+.chuctet{
+	display: flex;
+	width: 950px;
+	margin: auto;
+}
+.chuctet .anh1{
+	width: 33%;
+	margin-right: 40px;
+}
+.chuctet .anh1 img{
+	width: 70%;
+}
+.chuctet{
+	display: flex;
+}
+.chuctet .anh2{
+	width: 33%;
+	margin-left: 40px;
+
+}
+.chuctet .anh2 img{
+	width: 70%;
+}
+.chuctet .tho{
+	width: 33%;
+}
+.happy{
+	font-family: 'Great Vibes', cursive;
+	font-size: 50pt;
+	margin: 20px 0px;
+}
  #clockdiv{ 
     font-family: sans-serif; 
     color: #fff; 
@@ -46,7 +83,7 @@ h1{
     background: #00816A; 
     display: inline-block; 
 } 
-smalltext{ 
+.smalltext{ 
     padding-top: 5px; 
     font-size: 16px; 
 } 
